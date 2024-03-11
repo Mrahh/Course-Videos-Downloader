@@ -2,6 +2,10 @@
 
 Script that downloads all available videos from the selected courses
 
+# Setup
+```pip install requirements.txt```
+
+# Procedure
 * Add your mail and pw to the .env file and insert the personal token.
 * You can add the courses you want to download in the **all_courses_20202021.json** file.
 * Then you run the **version2.py** file, and you'll get all the videos of the courses you chose.
