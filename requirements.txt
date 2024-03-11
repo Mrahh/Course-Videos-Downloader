@@ -1,0 +1,4 @@
+moodlepy
+python-dotenv
+pytest-playwright
+playwright
