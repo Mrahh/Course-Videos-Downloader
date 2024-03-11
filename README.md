@@ -11,3 +11,5 @@ Script that downloads all available videos from the selected courses
 
 When the script is finished, check the brokenLinks.json file to check the videos that couldn't be downloaded, and you can manually check the videos. (Probably broken videos, password videos, or access denied) 
 or just replace the videos in **out_links.json** with the ones you want to retry downloading.
+
+Special thanks to Brock, Koalas, Depa and Damiano for their contributions to the project.
