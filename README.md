@@ -3,7 +3,7 @@
 Script that downloads all available videos from the selected courses
 
 # Setup
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 
 # Procedure
 * Add your mail and pw to the .env file and insert the personal token.
