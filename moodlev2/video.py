@@ -1,6 +1,6 @@
 from moodlev2.course import Course
 
-
+ 
 class Video():
 
     def __init__(self, link:str, name:str, course: Course):
