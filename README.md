@@ -1,14 +1,5 @@
 # Course-Videos-Downloader
 
-## Table of Contents
-
-### 1. [Objective](#objective)
-### 2. [Setup](#setup)
-### 3. [Run](#run)
-### 4. [Codebase](#codebase)
-### 5. [Collaborate](#collaborate)
-### 6. [References](#references)
-
 ## Objective
 
 Script that downloads all available videos from the selected courses
